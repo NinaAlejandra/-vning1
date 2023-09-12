@@ -1,0 +1,14 @@
+/Users/Nina/Projects/övning1/bin/Debug/net7.0/övning1
+/Users/Nina/Projects/övning1/bin/Debug/net7.0/övning1.deps.json
+/Users/Nina/Projects/övning1/bin/Debug/net7.0/övning1.runtimeconfig.json
+/Users/Nina/Projects/övning1/bin/Debug/net7.0/övning1.dll
+/Users/Nina/Projects/övning1/bin/Debug/net7.0/övning1.pdb
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.AssemblyInfoInputs.cache
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.AssemblyInfo.cs
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.csproj.CoreCompileInputs.cache
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.dll
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/refint/övning1.dll
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.pdb
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/övning1.genruntimeconfig.cache
+/Users/Nina/Projects/övning1/obj/Debug/net7.0/ref/övning1.dll
