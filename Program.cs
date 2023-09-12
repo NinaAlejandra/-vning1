@@ -13,4 +13,4 @@ Console.WriteLine("Ange lön för anställd:");
 string salary = Console.ReadLine();
 double wage = double.Parse(salary);
 
-Console.WriteLine("Anställd heter " + fName + (" ") + lName + " och tjänar " + wage + " i månaden");
+Console.WriteLine("Anställd heter " + fName + (" ") + lName + " och tjänar " + wage + " kr i månaden");
